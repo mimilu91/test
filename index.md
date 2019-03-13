@@ -6,4 +6,4 @@
 **python**
 _python_
 #### python
-![IMG_3506](IMG_3506.jpg)
+![IMG_3506](IMG_3506.JPG)
