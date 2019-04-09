@@ -1110,13 +1110,18 @@
    ]
   },
   {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "my_questions. # . 之後按tab 健會出現選項"
+   ]
+  },
+  {
    "cell_type": "code",
    "execution_count": null,
    "metadata": {},
    "outputs": [],
-   "source": [
-    "my_questions. # 按tab 健會出現選項"
-   ]
+   "source": []
   }
  ],
  "metadata": {
